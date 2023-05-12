@@ -1,0 +1,7 @@
+.card-container {
+    display: flex;
+    flex-direction: columns;
+    flex-wrap: wrap;
+    gap: 1rem;
+}
+

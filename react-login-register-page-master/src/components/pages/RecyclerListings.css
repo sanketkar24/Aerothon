@@ -1,0 +1,13 @@
+/* #recycler-listings.header {
+    background-color: #001529;
+    color:white;
+} */
+
+* {
+    font-family: 'Open Sans', sans-serif;
+}
+
+.custom-divider {
+    background-color: grey;
+    margin: 15px;
+}
